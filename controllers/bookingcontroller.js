@@ -1,4 +1,4 @@
-import Booking from '../models/bookingModel.js'; 
+import Booking from '../models/bookingmodel.js'; 
 import mongoose from 'mongoose';
 
 // Create a new booking
